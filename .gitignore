@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Claude Code project settings
+.claude/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Optional
+.DS_Store
+
+# Internal planning notes
+ENHANCEMENTS.md
