@@ -44,3 +44,5 @@ An AI-powered web app that converts natural language questions into SQL queries.
 1. Paste your database schema (`CREATE TABLE` statements) into the schema box.
 2. Type your question in plain English.
 3. Click **Generate SQL Query** to get the corresponding SQL.
+
+testpr2
