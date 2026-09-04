@@ -1,3 +1,4 @@
+//controller
 const { generateSQL } = require("../services/sqlService");
 
 const renderHome = (req, res) => {
