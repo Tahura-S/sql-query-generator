@@ -46,3 +46,4 @@ An AI-powered web app that converts natural language questions into SQL queries.
 3. Click **Generate SQL Query** to get the corresponding SQL.
 
 testpr2
+testpr3
